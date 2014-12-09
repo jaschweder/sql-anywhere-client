@@ -1,6 +1,6 @@
-<?php namespace jaschweder;
+<?php namespace Jaschweder;
 
-use jaschweder\SQLAnywhereClient;
+use Jaschweder\SQLAnywhereClient;
 
 /**
  * Classe para trabalhar com a query

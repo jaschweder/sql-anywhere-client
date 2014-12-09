@@ -1,7 +1,7 @@
-<?php namespace jaschweder;
+<?php namespace Jaschweder;
 
-use jaschweder\SQLAnywherePrepared AS SQLAnywherePrepared, 
-jaschweder\SQLAnywhereQuery AS SQLAnywhereQuery,
+use Jaschweder\SQLAnywherePrepared AS SQLAnywherePrepared, 
+Jaschweder\SQLAnywhereQuery AS SQLAnywhereQuery,
 Exception;
 
 /**

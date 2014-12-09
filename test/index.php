@@ -2,7 +2,7 @@
 	
 require '../vendor/autoload.php';
 
-use jaschweder\SQLAnywhereClient AS PDO;
+use Jaschweder\SQLAnywhereClient AS PDO;
 
 try {
 

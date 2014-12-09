@@ -2,7 +2,7 @@
 		
 require '../vendor/autoload.php';
 
-use jaschweder\SQLAnywhereClient AS PDO;
+use Jaschweder\SQLAnywhereClient AS PDO;
 
 try {
 	$dns = "uid=base;pwd=password;ENG=base;commlinks=tcpip{host=127.0.0.1;port=2638}";

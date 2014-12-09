@@ -1,5 +1,5 @@
 {
-    "name": "jaschweder/sql-anywhere-client",
+    "name": "Jaschweder/sql-anywhere-client",
     "description": "Client for connection with sybase",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "jaschweder": "src/"
+            "Jaschweder": "src/"
         }
     }
 }
