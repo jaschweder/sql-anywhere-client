@@ -1,6 +1,6 @@
-<?php namespace Cagartner;
+<?php namespace jaschweder;
 
-use Cagartner\SQLAnywhereQuery AS SQLAnywhereQuery;
+use jaschweder\SQLAnywhereQuery AS SQLAnywhereQuery;
 
 /**
 * @author Carlos A Gartner <contato@carlosgartner.com.br>

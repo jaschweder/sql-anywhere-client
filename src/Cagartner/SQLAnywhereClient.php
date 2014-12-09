@@ -1,7 +1,7 @@
-<?php namespace Cagartner;
+<?php namespace jaschweder;
 
-use Cagartner\SQLAnywherePrepared AS SQLAnywherePrepared, 
-Cagartner\SQLAnywhereQuery AS SQLAnywhereQuery,
+use jaschweder\SQLAnywherePrepared AS SQLAnywherePrepared, 
+jaschweder\SQLAnywhereQuery AS SQLAnywhereQuery,
 Exception;
 
 /**

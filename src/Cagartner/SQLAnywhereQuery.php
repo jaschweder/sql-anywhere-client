@@ -1,6 +1,6 @@
-<?php namespace Cagartner;
+<?php namespace jaschweder;
 
-use Cagartner\SQLAnywhereClient;
+use jaschweder\SQLAnywhereClient;
 
 /**
  * Classe para trabalhar com a query

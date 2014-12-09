@@ -1,5 +1,5 @@
 {
-    "name": "cagartner/sql-anywhere-client",
+    "name": "jaschweder/sql-anywhere-client",
     "description": "Client for connection with sybase",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Cagartner": "src/"
+            "jaschweder": "src/"
         }
     }
 }

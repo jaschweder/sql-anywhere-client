@@ -17,7 +17,7 @@ TODO:
 
     // ...
     "require": {
-        "cagartner/SQLAnywhereClient": "dev-master"
+        "jaschweder/SQLAnywhereClient": "dev-master"
     },
     // ...
 
@@ -31,7 +31,7 @@ Abaixo você ve alguns exemplos de como usar a classe:
 <?php
     require '../vendor/autoload.php';
 
-    use Cagartner\SQLAnywhereClient;
+    use jaschweder\SQLAnywhereClient;
 
     try {
         $dns = "uid={usuario};pwd={senha};ENG={nome-do-banco};commlinks=tcpip{host={seu-host};port={sua-porta}}";
@@ -50,7 +50,7 @@ Você pode definir duas opções iniciais junto com a conexão, que são as segu
 <?php
     require '../vendor/autoload.php';
 
-    use Cagartner\SQLAnywhereClient;
+    use jaschweder\SQLAnywhereClient;
 
     try {
         $dns = "uid={uid};pwd={senha};ENG={};commlinks=tcpip{host={seuuhost};port={suasenha}}";
